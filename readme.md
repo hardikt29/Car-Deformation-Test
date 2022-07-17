@@ -4,4 +4,4 @@ Car deformation is calculated through:
 <br>
 <br> It is half of product of weight with square of speed divided by total deformation score.
 <br>
-# This is demonstrated here in JS with five different Cars with Different Weights and Speed.
+This is demonstrated here in JS with five different Cars with Different Weights and Speed.
