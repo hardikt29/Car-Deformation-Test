@@ -1,6 +1,5 @@
 # Car Deformation Test
 Car deformation is calculated through:
-<br>
  ## <br>0.5*weight*speed*speed/22500
 <br>
 <br> It is half of product of weight with square of speed divided by total deformation score.
